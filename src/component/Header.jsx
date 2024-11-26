@@ -4,7 +4,7 @@ export function Header() {
     return (
         <Navbar fluid className="dark:bg-white">
             <Navbar.Brand href="https://flowbite-react.com">
-                <span className="self-center whitespace-nowrap text-xl font-semibold">Brama</span>
+                <span className="self-center whitespace-nowrap text-xl font-semibold">Curriculum Vitae</span>
             </Navbar.Brand>
             <div className="flex md:order-2">
                 <Dropdown
@@ -15,8 +15,8 @@ export function Header() {
                     }
                 >
                     <Dropdown.Header>
-                        <span className="block text-sm">M.Brama.A</span>
-                        <span className="block truncate text-sm font-medium">brama4751antoro.com</span>
+                        <span className="block text-sm">Vinze Louis Adriansyah</span>
+                        <span className="block truncate text-sm font-medium">Adrianlouis330@gmail.com</span>
                     </Dropdown.Header>
                     <Dropdown.Item>Dashboard</Dropdown.Item>
                     <Dropdown.Item>Settings</Dropdown.Item>
